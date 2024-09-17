@@ -1,0 +1,15 @@
+# Inteligencia de Negocios - Procesamiento y transformación de Datos
+*Elaborado por:* Lester Rodriguez
+
+*Docente:* Arlen López
+
+## Reporte
+Esta incluido el PDF con el nombre 'Reporte Inteligencia de Datos_LesterR.pdf'
+
+## Código fuente
+Se encuentra en el repositorio, notebook de jupyter
+
+## Datos
+Datos obtenidos de [Housing Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
+
+Se incluye archivo train.csv, archivo PrepTransfDatos.ipynb, y el pdf con el reporte de el preprocesamiento de datos
